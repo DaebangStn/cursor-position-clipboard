@@ -1,0 +1,9 @@
+{
+	"id": "cursor-position-clipboard",
+	"name": "Cursor Position Clipboard",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Copy current cursor position (file path + line number) to clipboard",
+	"author": "geon",
+	"isDesktopOnly": true
+}
